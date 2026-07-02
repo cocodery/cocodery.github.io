@@ -25,9 +25,15 @@ which also won 3rd prize of the National Compiler Competition, under
 the supervision of Professor Daling Wang and Dr.Shuai Hou. Then I did research
 on operating systems and profiling tools at Fudan University for one year.
 
-<!-- ## Publications
+## Publications
 
-## Talks
+### 2026
+
+- **Type-Safe Monotonic Object Evolution** \
+  Alexandra Mirrlees-Black, Haoyu Wu, Gregor Richards, Fabian Muehlboeck \
+  in OOPSLA 2026 [[paper](https://dl.acm.org/doi/pdf/10.1145/3798252)]
+
+<!-- ## Talks
 
 ## Teaching
 
